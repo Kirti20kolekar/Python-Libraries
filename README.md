@@ -5,6 +5,6 @@ This repository is designed for learning, and building a quick reference for dat
 ## 📚 Libraries Covered
 - **NumPy** → Numerical computing, array manipulation, mathematical operations     
 - **Pandas** → Data manipulation, cleaning, and analysis with DataFrames   
-- **Matplotlib** → Static, animated, and interactive data visualizations  
+- **Matplotlib** → Static, animated, and interactive data visualizations   
 - **Seaborn** → Statistical visualizations built on top of Matplotlib          
  
